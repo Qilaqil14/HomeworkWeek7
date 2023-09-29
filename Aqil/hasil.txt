@@ -1,0 +1,7 @@
+Persegi dengan sisi 5
+Kelilingnya adalah 20
+luasnya adalah 25
+
+Persegi Panjang dengan panjang 4 dan lebar 5
+kelilingnya adalah 18
+luasnya adalah 20
